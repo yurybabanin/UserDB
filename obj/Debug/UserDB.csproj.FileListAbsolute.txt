@@ -1,0 +1,10 @@
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\bin\Debug\UserDB.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.Properties.Resources.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.csproj.GenerateResource.Cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\bin\Debug\UserDB.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.main.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\UserDB\UserDB\obj\Debug\UserDB.user.resources
